@@ -1,0 +1,61 @@
+<html>
+    <head> 
+           <meta name="viewport" content="wdith=device-width, initial-scale: 1.0">
+           <title>My CV Using HTML and CSS</title>          
+    </head>
+    <style>  
+    div{
+        margin-left:20%; 
+        margin-right: 20%; 
+        border: 2px solid black; 
+        background: rgb(195, 218, 226);
+        font-size: 3vh;
+    }
+    img{
+        padding-left:200px;
+        padding-top:10px;
+    }
+    h2{
+        text-align: center; 
+        color:  #0d0d0d; 
+    }
+    h4{
+        text-align: center; 
+    }
+    </style>
+    <body>
+        <div>
+            <p style="align:centre";>
+            <img src="./Desktop/New folder/download.jpeg" alt="MY PHOTO" height="80%" width="80%">
+            </p>
+            <h2><u>PERSONAL INFORMATION</u></h2>
+            <h4> Name: Rohan</h4>
+            <h4> Email: abcd@gmail.com</h4>
+            <h4> Address: house no. 3439, sec-27D chd</h4>
+            <h4> Phone number: 234243524</h4>
+            <hr> 
+            <h2><u>QUALIFICATIONS</u></h2>
+            <h4>Elementary: Jesus Savious School, Marauli, Punjab</h4>
+            <h4>Seconday: Shivalik Public School, Sector-41B, chandigarh</h4>
+            <h4>Tertiary: B.E. C.S.E, Chandigarh College of Engineering and Technology, sector-26, Chandigarh</h4>
+            <hr> 
+            <h2><u>SKILLS</u></h2>
+            <h4>Programming: C/C++, Java, Python</h4>
+            <h4>Database Handling: SQL, MySQL</h4>
+            <h4>Web Development: HTML, CSS</h4>
+            <hr>
+            <h2><u>PROJECTS</u></h2>
+            <h4>1. KBC Game</h4>
+            <h4>2. Student Record System</h4> 
+            <h4>3. Inventory Control System</h4>
+            <h4>4. A Mini text-editor</h4> 
+            <h4>5. Scientific Calculator</h4> 
+            <h4>6. Bank Management System</h4> 
+            <hr>
+            <h2><u>HOBBIES</u></h2>
+            <h4>Reading Books</h4>
+            <h4>Playing Piano, Singing</h4>
+            <h4>Cricket, Badminton, Volleyball</h4>
+        </div>
+    </body> 
+</html>
